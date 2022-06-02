@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "gLLAqasn1C6vck1kA/LnYTC3C2xq2ypbUzQYib3fFSzGfJ3acgCQsQkFJ5cWsU1t9NErqA3vfhk+jifgxG+PWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Giulio\\Desktop\\LearningLanguages\\Languages\\Languages\\Languages.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Giulio\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1000\\microsoft.office.interop.excel.15.0.4795.1000.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Office.Interop.Excel 15.0.4795.1000' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Office.Interop.Excel",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
